@@ -1,5 +1,4 @@
-Hi! My name is Fareed Folorunsho 😄
-========================================================================================================================================
+# Hi! My name is Fareed Folorunsho 😄
 
 🌍  I am a Front-End Developer based in Lagos, Nigeria.
 <br/>
@@ -14,5 +13,8 @@ Hi! My name is Fareed Folorunsho 😄
 <div id="badges">
   <a href="https://www.linkedin.com/in/fareed-folorunsho/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://x.com/codedfareed/">
+    <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
   </a>
 </div>
