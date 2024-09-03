@@ -1,6 +1,6 @@
 # Hi! My name is Fareed Folorunsho 😄
 
-🌍  I am a Front-End Developer based in Lagos, Nigeria.
+🌍  I am a Software Engineer based in Lagos, Nigeria.
 <br/>
 
 ### Skills
